@@ -4,6 +4,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+>**Note**: we will work on to implementing a linux and web application using the reactnative lib(typescript) **this is the dev build one**
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
@@ -41,6 +43,25 @@ npm run ios
 # OR using Yarn
 yarn ios
 ```
+
+### For windows run 
+```bash
+# OR using yarn
+yarn windows
+
+# OR using npm
+npm run windows
+```
+
+### For MacOS
+
+```bash
+#using npm
+npm run macos
+
+# OR using yarn
+yarn macos
+``` 
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
