@@ -4,7 +4,10 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+>**Note**: Make sure you have complete the windows an₫ mac configuration [React Native - Environment Setup](https://microsoft.github.io/react-native-windows/)
+
 >**Note**: we will work on to implementing a linux and web application using the reactnative lib(typescript) **this is the dev build one**
+>**work with linux and web intergration**
 
 ## Step 1: Start the Metro Server
 
